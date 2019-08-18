@@ -2,7 +2,7 @@
 
 Given all the user generated data around fashion preferences that exists online, how can we leverage this data to identify and predict fashion trends?
 
-I used data from a popular social media fashion site to identify references to garments, recorded references to those garments over time, and used clustering and time series modeling to attempt to pick out trends.
+I used data from a popular social media fashion site to identify references to garments, recorded references to those garments over time, and am using clustering and time series modeling to attempt to pick out trends.
 
 ## Problem 1:
 ### How do we identify garment words?
